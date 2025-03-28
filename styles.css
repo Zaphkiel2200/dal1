@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f0f2f5;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  h1 {
+    color: #ff6600;
+    text-align: center;
+  }
